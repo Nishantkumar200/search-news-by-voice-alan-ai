@@ -5,7 +5,7 @@ import NewsCards from "./components/NewsCards/NewsCards";
 
 /** Alan API key  */
 const alanKey =
-  "69baab036ab8ceaca709318f20d230702e956eca572e1d8b807a3e2338fdd0dc/stage";
+  "Here Place your own alan-ai key";
 
 function App() {
   const [newsArticle, setNewsArticle] = useState([]);
