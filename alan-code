@@ -10,8 +10,9 @@ intent('What this app do ?' , reply('This is news app'));
 // })
 
 
+/* NEWS api key - you can create api-key from news.org an   */
 
-const API_KEY = 'ee002f7793144764a16aed37d2fc57da';
+const API_KEY = 'Here place your NEWS api';
 let savedArticles =  [];
 
 // This works when we see the news by any chhanels like bbc or cnn
